@@ -255,6 +255,22 @@ html, body {
     margin-bottom:  50px;
 }
 
+.project__item {
+    margin-bottom: 20px;
+}
+
+.project__item a {
+    color: inherit;
+}
+
+.project__item a:hover {
+    color: #A8A7A5;
+}
+
+.project__item a:active {
+    color: inherit;
+}
+
 /* footer */
 
 .footer-wraper {
