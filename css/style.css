@@ -235,6 +235,10 @@ html, body {
     background-image: linear-gradient(to bottom, #F9F6F3, #DBD9D7, #A8A7A5);
     box-shadow: 3px 3px 5px 1px #111;
     cursor: pointer;
+    color: #111;
+    font:inherit;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 
